@@ -5,7 +5,7 @@
 
 <br>
 <img src="photos/photonew3.jpg" width=40% height=40%>
-<img src="photos/epaper_4in2.png" width=40% height=40%> <br>
+<img src="pic/screen_output.png" width=40% height=40%> <br>
 
 <h1>Setup</h1>
   <ol type="1">
