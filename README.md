@@ -23,6 +23,8 @@ That's about it. Run the python file (**python3 weather.py**) and you should see
 If you are not using a 4.2 inch display, you will want to replace 'epd4in2.py' in the 'lib' folder with whichever one you have from https://github.com/waveshare/e-Paper/tree/master/RaspberryPi%26JetsonNano/python/lib/waveshare_epd<br>
 Fairly extensive adjustments will have to be made for other sized screens.
 
+Free plan has 1000 calls limit per day or 41.6 calls per hour.
+
 # Parts
 <ul>
   <li>https://www.waveshare.com/wiki/4.2inch_e-Paper_Module</li>

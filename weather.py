@@ -233,4 +233,4 @@ while True:
     	epd.Clear()
 
     # Write to screen
-    write_to_screen(screen_output_file, 60)
+    write_to_screen(screen_output_file, 600)
